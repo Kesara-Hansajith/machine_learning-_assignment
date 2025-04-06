@@ -35,7 +35,7 @@ We evaluated several machine learning algorithms:
 - Compared models using accuracy, precision, recall, and F1-score
 - Generated ROC curves and confusion matrices
 - Performed cross-validation to ensure model stability
-- **Best Model**: Random Forest (87.3% accuracy)
+- **Best Model**: Random Forest (86.6% accuracy)
 
 ### 5. Model Deployment
 - Created a Streamlit web application for interactive predictions
