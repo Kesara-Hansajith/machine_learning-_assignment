@@ -10,7 +10,7 @@ category_mappings = {
     'workclass': ['Federal-gov', 'Local-gov', 'Never-worked', 'Private', 'Self-emp-inc', 'Self-emp-not-inc', 'State-gov', 'Without-pay'],
     'education': ['Bachelors', 'Doctorate', 'HS-grad', 'Masters', 'Some-college'],
     'marital-status': ['Divorced', 'Married-civ-spouse', 'Never-married', 'Separated', 'Widowed'],
-    'occupation': ['Lecturer', 'Docter' 'student', 'Craft-repair', 'Exec-managerial', 'Prof-specialty', 'Sales'],
+    'occupation': ['Lecturer', 'Docter', 'student', 'Craft-repair', 'Exec-managerial', 'Prof-specialty', 'Sales'],
     'relationship': ['Husband', 'Own-child', 'Wife'],
     'race': ['Black', 'White'],
     'sex': ['Female', 'Male'],
